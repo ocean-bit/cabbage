@@ -6,7 +6,7 @@
 
     <packaging>pom</packaging>
     <modules>
-        <module>springboot</module>
+        <module>jdk-module</module>
     </modules>
 
     <parent>
