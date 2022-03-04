@@ -1,5 +1,5 @@
 module jdk.module {
-    exports top.oceanbit.springboot;
+    exports top.oceanbyte.jdkmodule;
     // jar文档 https://docs.oracle.com/en/java/javase/17/docs/specs/jar/jar.html#modular-jar-files
     requires java.base;
     // 非模块化jar 可从ModuleFinder.of(Path...)得出模块名，与jar文件名相关
