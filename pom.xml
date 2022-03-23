@@ -8,6 +8,7 @@
     <modules>
         <module>jdk-module</module>
         <module>mq</module>
+        <module>selenium</module>
     </modules>
 
     <parent>
